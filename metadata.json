@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Rush: Shop Manager",
+  "description": "A charming, cozy 2D pizza shop management simulation where you craft custom pizzas, balance oven times, satisfy hungry customers, upgrade your pizzeria, and grow your neighborhood restaurant empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
